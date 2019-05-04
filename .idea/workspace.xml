@@ -2,64 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d25f2448-259e-4e3d-99c9-39273dd19941" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/neteorm1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/32768Hz.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/BeautifulSoup详解/beautifulsoup.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/Flask+Redis维护Cookies池/Flask+Redis维护Cookies池.key" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/Flask+Redis维护Cookies池/Flask+Redis维护Cookies池.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/Flask+Redis维护Cookies池/Flask+Redis维护Cookies池.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/Flask+Redis维护Cookies池/代码.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/Flask+Redis维护代理池/Flask+Redis维护代理池.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/Flask+Redis维护代理池/代码(1).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/PyQuery详解/pyquery.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/Requests+正则表达式爬取猫眼电影/requests+正则表达式爬取猫眼电影TOP100.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/Requests+正则表达式爬取猫眼电影/代码.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/Requests讲解/requests.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/Requests讲解/requests库详解.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/Scrapy分布式原理/Scrapy分布式原理.key" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/Scrapy分布式原理/Scrapy分布式原理.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/Scrapy分布式爬取知乎/代码.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/Scrapy安装详解/Scrapy安装详解.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/Scrapy安装详解/Scrapy框架安装.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/Scrapy安装详解/scrapy安装文档.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/Scrapy新浪微博/代码.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/Scrapy爬取知乎/Scrapy知乎.key" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/Scrapy爬取知乎/Scrapy知乎.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/Scrapy爬取知乎/代码.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/Selenium爬取淘宝美食/selenium爬取淘宝美食.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/Selenium详解/selenium.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/jupyter-lab-nk.lnk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/redis-desktop-manager-0.8.8.384.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/urllib讲解/.ipynb_checkpoints/urllib-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/urllib讲解/urllib.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/urllib讲解/urllib库详解.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/代理抓取微信文章/代码.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/代理抓取微信文章/用代理抓取微信文章.key" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/代理抓取微信文章/用代理抓取微信文章.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/关注微信公众号32768Hz 获取更多资源.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/分析Ajax来爬取今日头条街拍美图/代码.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/分析Ajax来爬取今日头条街拍美图/分析Ajax来爬取今日头条街拍美图.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/正则表达式/regex.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/正则表达式/正则表达式.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/爬虫基本原理/爬虫基本原理.key" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/爬虫基本原理/爬虫基本原理.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/爬虫基本原理/爬虫基本原理.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/用Python写网络爬虫.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code-resource/自己动手写网络爬虫.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie-LWP.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cookie.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work/01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work/cooke使用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work/handler代理.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work/urllib-requests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work/urllib-urlopen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work/urllib-异常处理.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work/urlparse-URL解析.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work/urlparse-URL解析.py" beforeDir="false" afterPath="$PROJECT_DIR$/work/urlparse-URL解析.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +15,11 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/work/urlparse-URL解析.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -117,11 +65,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="463" />
-    <option name="y" value="-17" />
-    <option name="width" value="1095" />
-    <option name="height" value="1090" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1088" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -263,12 +210,27 @@
       <workItem from="1556982650081" duration="48000" />
       <workItem from="1556982716850" duration="1708000" />
       <workItem from="1556984446999" duration="5497000" />
-      <workItem from="1556992571537" duration="257000" />
+      <workItem from="1556992571537" duration="1068000" />
     </task>
+    <task id="LOCAL-00001" summary="commit note by binyang 2019.05.05">
+      <created>1556992945082</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556992945082</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit note by binyang 2019.05.05">
+      <created>1556993231248</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556993231248</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22066000" />
+    <option name="totallyTimeSpent" value="22877000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -280,9 +242,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="-6" y="0" width="781" height="870" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4973404" visible="true" weight="0.2191689" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4973404" visible="true" weight="0.45228216" />
       <window_info id="Structure" order="1" sideWeight="0.50265956" side_tool="true" weight="0.022288261" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -293,9 +256,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49925706" weight="0.32947975" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49925706" weight="0.32947975" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49925706" weight="0.32841823" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" visible="true" weight="0.123324394" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.123324394" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49925706" weight="0.32947975" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.5007429" side_tool="true" weight="0.39106902" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -308,6 +271,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit note by binyang 2019.05.05" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit note by binyang 2019.05.05" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/neteorm1$01.coverage" NAME="01 Coverage Results" MODIFIED="1556377675316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work" />
@@ -380,7 +347,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/work/urlparse-URL解析.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
