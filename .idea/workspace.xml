@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d25f2448-259e-4e3d-99c9-39273dd19941" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/code-resource/爬虫基本原理/01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work/urlparse-URL解析.py" beforeDir="false" afterPath="$PROJECT_DIR$/work/urlparse-URL解析.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/work/urlparse-URL解析.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="25">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code-resource/爬虫基本原理/01.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="9" selection-start-column="9" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -62,6 +71,7 @@
         <option value="$PROJECT_DIR$/work/cooke使用.py" />
         <option value="$PROJECT_DIR$/work/urllib-异常处理.py" />
         <option value="$PROJECT_DIR$/work/urlparse-URL解析.py" />
+        <option value="$PROJECT_DIR$/code-resource/爬虫基本原理/01.py" />
       </list>
     </option>
   </component>
@@ -82,6 +92,17 @@
             <path>
               <item name="netspider-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="netspider-study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netspider-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netspider-study" type="462c0819:PsiDirectoryNode" />
+              <item name="code-resource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netspider-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netspider-study" type="462c0819:PsiDirectoryNode" />
+              <item name="code-resource" type="462c0819:PsiDirectoryNode" />
+              <item name="爬虫基本原理" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -210,7 +231,7 @@
       <workItem from="1556982650081" duration="48000" />
       <workItem from="1556982716850" duration="1708000" />
       <workItem from="1556984446999" duration="5497000" />
-      <workItem from="1556992571537" duration="1068000" />
+      <workItem from="1556992571537" duration="1227000" />
     </task>
     <task id="LOCAL-00001" summary="commit note by binyang 2019.05.05">
       <created>1556992945082</created>
@@ -226,11 +247,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556993231248</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit note by binyang 2019.05.05">
+      <created>1556993762271</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1556993762271</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22877000" />
+    <option name="totallyTimeSpent" value="23036000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -245,7 +273,7 @@
     <frame x="-6" y="0" width="781" height="870" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4973404" visible="true" weight="0.45228216" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4973404" visible="true" weight="0.45228216" />
       <window_info id="Structure" order="1" sideWeight="0.50265956" side_tool="true" weight="0.022288261" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -349,7 +377,14 @@
     <entry file="file://$PROJECT_DIR$/work/urlparse-URL解析.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code-resource/爬虫基本原理/01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
         </state>
       </provider>
     </entry>
